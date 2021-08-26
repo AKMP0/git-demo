@@ -25,5 +25,8 @@ hello git!
 hello git!
 hello git!
 hello git!
+<<<<<<< HEAD
 hello git!master
-hello git2222221111111111111112!
+=======
+hello git!hot-fix
+>>>>>>> hot-fix
